@@ -21,7 +21,7 @@ export const programs: Program[] = [
       'Оценка профрисков',
       'Аттестация',
     ],
-    price: 'от 3 500 ₽',
+    price: 'По договору',
   },
   {
     id: 'specialist',
@@ -36,7 +36,7 @@ export const programs: Program[] = [
       'ГИТ',
       'Практические кейсы',
     ],
-    price: 'от 5 500 ₽',
+    price: 'По договору',
   },
   {
     id: 'authorized',
@@ -50,7 +50,7 @@ export const programs: Program[] = [
       'Инструкции ОТ',
       'Защита прав',
     ],
-    price: 'от 4 000 ₽',
+    price: 'По договору',
   },
   {
     id: 'fire_safety',
@@ -64,7 +64,7 @@ export const programs: Program[] = [
       'Действия при ЧС',
       'Практическое занятие',
     ],
-    price: 'от 3 000 ₽',
+    price: 'По договору',
   },
   {
     id: 'corporate',
@@ -91,6 +91,6 @@ export const programs: Program[] = [
       'Анализ СУОТ',
       'Подготовка к ГИТ',
     ],
-    price: 'от 2 000 ₽',
+    price: 'По договору',
   },
 ]
